@@ -2,7 +2,7 @@
   "name": "aws-lambda-layer-manager",
   "version": "1.0.0",
   "description": "Tool for creating AWS Lambda Layers with one command",
-  "main": "index.sh",
+  "main": "run.sh",
   "author": "@fnmendez",
   "license": "MIT"
 }
